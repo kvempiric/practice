@@ -42,7 +42,7 @@ function Main() {
                     <input type="text" name='calculator' className='inputField' value={result}/>
                 </div>
             </div>
-            <div className="row"> 
+            <div className="row">       
                 <div className="col-sm-3 numberDiv ">
                     <button className='btn btn-block w-100 btnNumber' value={7} onClick={userClick} >7</button>
                 </div>
